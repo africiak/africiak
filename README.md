@@ -1,6 +1,6 @@
  .👋hi, I'm @africiak           
  .🦒I'm interested in learning and growing in my developer journey.        
- .🌱I'm currently learning  Java, PHP, javascript, react, and Python.       
+ .🌱I'm currently learning react, and Django with python.       
  .🔭I'm looking to collaborate on exciting projects.               
  .📬how to reach me: Keruboafricia@gmail.com
 
