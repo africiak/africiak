@@ -1,4 +1,4 @@
- .# 👋 Hi, I'm Africia Kerubo  
+# 👋 Hi, I'm Africia Kerubo  
 
 🔹 **Cybersecurity Enthusiast | Web Developer | Final Year CS Student**  
 🔹 Passionate about **network security, ethical hacking, and web security**  
