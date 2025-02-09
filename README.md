@@ -1,8 +1,22 @@
- .👋hi, I'm @africiak           
- .🦒I'm interested in learning and growing in my developer journey.        
- .🌱I'm currently learning react, and Django with python.       
- .🔭I'm looking to collaborate on exciting projects.               
- .📬how to reach me: Keruboafricia@gmail.com
+ .# 👋 Hi, I'm Africia Kerubo  
+
+🔹 **Cybersecurity Enthusiast | Web Developer | Final Year CS Student**  
+🔹 Passionate about **network security, ethical hacking, and web security**  
+🔹 Skilled in **PHP, JavaScript, CSS, MySQL, and python**
+
+## 🚀 Current Projects  
+- 🔐 **Hiveflow** – An event management system that is designed to simplify the planning, coordination, and execution of events.
+- 🏆 **CTF Challenges** – Documenting my security learnings  
+- 🛠️ **Security Scripts** – Automating security tasks
+
+- ## 📚 Learning & Certifications  
+- Studying ** security path Try hack me**  
+- Certifications & Badges: **https://www.credly.com/users/africia-kerubo**
+
+- ## 📫 Let's Connect!  
+💼 [LinkedIn] https://www.linkedin.com/in/africia-kerubo-5413482b7/ 
+💬 Open to discussions & collaborations!  
+
 
 <!--
 **africiak/africiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
