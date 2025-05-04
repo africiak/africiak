@@ -10,11 +10,11 @@
 - 🛠️ **Security Scripts** – Automating security tasks
 
 - ## 📚 Learning & Certifications  
-- Studying ** security path Try hack me**  
+- 
 - Certifications & Badges: **https://www.credly.com/users/africia-kerubo**
 
 - ## 📫 Let's Connect!  
-💼 [LinkedIn] https://www.linkedin.com/in/africia-kerubo-5413482b7/ 
+💼 https://www.linkedin.com/in/africia-kerubo-5413482b7/ 
 💬 Open to discussions & collaborations!  
 
 
