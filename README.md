@@ -4,9 +4,9 @@
 🔹 Passionate about **building secure systems, exploring vulnerabilities, and automating security tasks.**  
 
 ## 🧠 Technical Skills
--**Languages**: PHP, JavaScript, Python, MySQL, CSS ,html
--**Cybersecurity Interests**: Network Security, Web Security, Ethical Hacking, Threat Analysis
--**Tools & Frameworks**: Wireshark, Nmap, Burp Suite, Linux, OWASP ZAP
+- **Languages**: PHP, JavaScript, Python, MySQL, CSS ,html
+- **Cybersecurity Interests**: Network Security, Web Security, Ethical Hacking, Threat Analysis
+- **Tools & Frameworks**: Wireshark, Nmap, Burp Suite, Linux, OWASP ZAP
 
 ## 🚀 Current Projects  
 - 🔐 **Hiveflow** – An event management system that is designed to simplify the planning, coordination, and execution of events.
