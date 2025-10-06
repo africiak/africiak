@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Africia Kerubo  
 
-🔹 **Cybersecurity Enthusiast | Web Developer | Final Year CS Student**  
+🔹 **Computer Science Graduate | Cybersecurity Enthusiast | Web Developer**  
 🔹 Passionate about **building secure systems, exploring vulnerabilities, and automating security tasks.**  
 
 ## 🧠 Technical Skills
