@@ -14,7 +14,6 @@
 - 🛠️ **Security Scripts** – Automating security tasks
 
 - ## 📚 Learning & Certifications  
-- 
 - Certifications & Badges: **https://www.credly.com/users/africia-kerubo**
 
 - ## 📫 Let's Connect!  
