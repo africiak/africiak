@@ -5,7 +5,7 @@
 
 ## 🧠 Technical Skills
 - **Languages**: PHP, JavaScript, Python, MySQL, CSS ,html
-- **Cybersecurity Interests**: Network Security, Web Security, Ethical Hacking, Threat Analysis
+- **Cybersecurity learning**: Network Security, Web Security, Ethical Hacking, Threat Analysis
 - **Tools & Frameworks**: Wireshark, Nmap, Burp Suite, Linux, OWASP ZAP
 
 ## 🚀 Current Projects  
