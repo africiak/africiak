@@ -4,6 +4,7 @@
 🔹 Passionate about **building secure systems, exploring vulnerabilities, and automating security tasks.**  
 
   ### 🧰 Tech Stack & Tools
+  - **Languages**: CSS ,html, javaScript, python, VB.Net
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -14,7 +15,7 @@
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white"/>
 </p>
-- **Languages**: CSS ,html, javaScript, python
+
 
 ## 🚀 Current Projects  
 - 🔐 **Hiveflow** – An event management system that is designed to simplify the planning, coordination, and execution of events.
