@@ -3,11 +3,6 @@
 🔹 **Computer Science Graduate | Cybersecurity Enthusiast | Web Developer**  
 🔹 Passionate about **building secure systems, exploring vulnerabilities, and automating security tasks.**  
 
-## 🧠 Technical Skills
-- **Languages**: PHP, JavaScript, Python, MySQL, CSS ,html
-- **Cybersecurity learning**: Network Security, Web Security, Ethical Hacking, Threat Analysis
-- **Tools & Frameworks**: Wireshark, Nmap, Burp Suite, Linux, OWASP ZAP
-
   ### 🧰 Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -19,6 +14,7 @@
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white"/>
 </p>
+- **Languages**: CSS ,html, javaScript, python
 
 ## 🚀 Current Projects  
 - 🔐 **Hiveflow** – An event management system that is designed to simplify the planning, coordination, and execution of events.
