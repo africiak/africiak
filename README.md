@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Africia Kerubo  
 
-- 💻 Software Developer & Open Source Contributor
-- 🔐 Focused on Cybersecurity and Secure System Design
-- 🚀 Currently contributing to open source projects and building backend systems
-- 📍 Passionate about backend development, security, and real-world problem solving
+- 💻 Software Developer & Open Source Contributor.
+- 🚀 I enjoy building software, learning new technologies and contributing to open source.
+- 📍 Passionate about networking, security, and real-world problem solving
 
-🚀 I’m interested in contributing to impactful projects and building secure, real-world systems.
 
 - ## 📫 Let's Connect!  
 💼 https://www.linkedin.com/in/africia-kerubo-5413482b7/ 
