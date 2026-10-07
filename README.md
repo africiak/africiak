@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Africia Kerubo  
 
-- 💻 Software Developer who enjoys building things, learning how they work and contributing to open source.
--  Interested in networking, security, and real-world problem solving.
+💻 Software Developer who enjoys building things, learning how they work and contributing to open source.
 
+ Interested in networking, security, and real-world problem solving.
 
-- ## 📫 Let's Connect!  
+## 📫 Let's Connect!  
 💼 https://www.linkedin.com/in/africia-kerubo-5413482b7/ 
 💬 Open to discussions & collaborations!  
 
